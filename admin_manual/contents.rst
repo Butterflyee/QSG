@@ -9,6 +9,7 @@ Table of contents
     release_notes/index
     release_schedule
     installation/index
+    getting started with nextcloud administration/index
     configuration_server/index
     occ_command
     apps_management
